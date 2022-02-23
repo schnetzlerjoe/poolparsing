@@ -1,0 +1,5 @@
+package osmosis
+
+func osmosis() {
+  
+}
