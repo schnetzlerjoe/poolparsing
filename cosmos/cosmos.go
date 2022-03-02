@@ -1,9 +1,7 @@
 package cosmos
 
-var (
-  "client"
-)
+import "fmt"
 
-func cosmos() {
-  client.Get()
+func Cosmos() {
+	fmt.Println("Hello from Cosmos..")
 }

@@ -1,5 +1,5 @@
 package osmosis
 
 func osmosis() {
-  
+
 }
